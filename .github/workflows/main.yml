@@ -15,7 +15,7 @@
       -名称：设置Python 3.9
         使用： actions/setup-python@v2
         和：
-          python-版本：3.9.1
+          python-版本：3.9.12
       -名称：设置时区
         运行：|
           cp /usr/share/zoneinfo/Asia/上海 /etc/localtime
